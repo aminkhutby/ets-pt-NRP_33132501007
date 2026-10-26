@@ -1,0 +1,6 @@
+Nama: [amin qutby]
+NRP: [33132501007]
+
+Working Tree: Area kerja lokal tempat file dibuat atau diubah sebelum masuk ke staging area.
+Staging Area: Area penampungan sementara untuk menandai perubahan file yang siap di-commit.
+Repository: Tempat penyimpanan riwayat commit dan basis data versi Git secara permanen.
